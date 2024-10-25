@@ -7,8 +7,6 @@
     <list default="true" id="f3ef0650-950d-49bb-b43c-572b53fd7c95" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <updated>1729428488432</updated>
       <workItem from="1729428489824" duration="8981000" />
       <workItem from="1729534320001" duration="9745000" />
-      <workItem from="1729763752557" duration="4239000" />
+      <workItem from="1729763752557" duration="4880000" />
     </task>
     <servers />
   </component>

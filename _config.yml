@@ -36,15 +36,18 @@ author:
   avatar: "assets/images/profile.JPG" # Add your picture file in your assets/images folder
   bio: "I like to pee, poo and sleep"
   links:
+    - label: "Location"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://goo.gl/maps/7y7Z8Q5Q7Q2Q7Q7Q6"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:pamelacece@hotmail.com"
     - label: "GitHub"
       url: "https://github.com/pamelacece"
       icon: "github"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/pamela-cece/"
       icon: "linkedin"
-      #TODO: Add email
-#    - label: "Email"
-#        url: "mailto: pamelacece@hotmail.com"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
@@ -58,6 +61,7 @@ defaults:
       type: posts
     values:
       author_profile: true
+
 
 
 # Exclude from processing.

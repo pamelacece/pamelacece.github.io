@@ -33,27 +33,30 @@ github_username:  hugethor
 # Author settings
 author:
   name: "Pamela Cece"
-  avatar: "assets/images/profile.JPG" # Add your picture file in your assets/images folder
-  bio: "I like to pee, poo and sleep"
+  avatar: "assets/images/profile.JPG"
+  bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean placerat fringilla lorem, in viverra felis imperdiet ut. In mauris orci, congue ac dictum eu, semper vitae justo. Aliquam vitae neque commodo, scelerisque nisl nec, luctus velit."
+  location: "Eindhoven, the Netherlands"
   links:
-    - label: "Location"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: "https://goo.gl/maps/7y7Z8Q5Q7Q2Q7Q7Q6"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pamelacece@hotmail.com"
     - label: "GitHub"
       url: "https://github.com/pamelacece"
-      icon: "github"
+      icon: "fab fa-fw fa-github"
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/pamela-cece/"
-      icon: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-archives
+  - jekyll-paginate-v2
+  - jekyll-compose
 
 defaults:
   - scope:
@@ -62,6 +65,24 @@ defaults:
     values:
       author_profile: true
 
+# Navigation links
+nav:
+  - title: "Home"
+    url: "/"  # Links to the landing page
+  - title: "About Me"
+    url: "/about/"  # Links to the 'About Me' page
+  - title: "Tags"
+    url: "/tags/"  # Links to the tags page
+  - title: "<i class='fas fa-search'></i>"
+    url: "/search/"  # Links to the search tool
+
+# Enable search
+search_enabled: true
+
+# Exclude specific pages/posts from the search index
+search:
+  exclude:
+    - /about/
 
 
 # Exclude from processing.

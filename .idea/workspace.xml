@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3ef0650-950d-49bb-b43c-572b53fd7c95" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/about.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +32,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Pamela Cece/OneDrive - TU Eindhoven/Desktop/Portfolio/minimal-mistakes-choiiis-customized",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,7 +60,14 @@
       <updated>1729428488432</updated>
       <workItem from="1729428489824" duration="8981000" />
       <workItem from="1729534320001" duration="9745000" />
-      <workItem from="1729763752557" duration="4880000" />
+      <workItem from="1729763752557" duration="6128000" />
+      <workItem from="1730217427878" duration="993000" />
+      <workItem from="1730382306547" duration="2157000" />
+      <workItem from="1730631291688" duration="536000" />
+      <workItem from="1732727747175" duration="1193000" />
+      <workItem from="1733928768756" duration="900000" />
+      <workItem from="1736783822747" duration="2018000" />
+      <workItem from="1737891028995" duration="6439000" />
     </task>
     <servers />
   </component>
